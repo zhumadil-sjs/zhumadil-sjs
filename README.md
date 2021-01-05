@@ -2,9 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ..
+- 🔭 I’m currently working on one project
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on JS, ReactJS-ThreeJS-NodeJS-TypeScript
-- 🤔 I’m looking for help wit
-- 💬 Ask me about ...
-- 📫 How to reach me: Teleram:@Zhumadil_SJS, Mobile: +996776887634, E-mail: zhumadil.seiitkulov01@gmail.com
+- 📫  E-mail: zhumadil.seiitkulov01@gmail.com
+- ✉️ Teleram:@Zhumadil_SJS
