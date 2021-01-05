@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JS, ReactJS-ThreeJS-NodeJS-TypeScript
 - 📫  E-mail: zhumadil.seiitkulov01@gmail.com
 - ✉️ Teleram:@Zhumadil_SJS
--  Summary: career.habr.com/zhumadil-seiitkulov
